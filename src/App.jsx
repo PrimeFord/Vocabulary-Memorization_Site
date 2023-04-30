@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <p>Hello Memorize Site</p>
+      <p>Hello Memorize Vocabulary Site</p>
     </div>
   );
 }
